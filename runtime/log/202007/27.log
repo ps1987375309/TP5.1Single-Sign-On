@@ -1,0 +1,1483 @@
+---------------------------------------------------------------
+
+[2020-07-27T12:19:11+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=attach&broker=Alice&token=3by0j4u0i2yo8wsgckc4ww840&checksum=5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa&return_url=http%3A%2F%2F127.0.0.61%3A9999%2Fuser%2Findex.html
+[运行时间：0.167371s] [吞吐率：5.97req/s] [内存消耗：1,657.43kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=i1jl0l62ffbdd0d8mvvffq2s44',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'attach',
+  'broker' => 'Alice',
+  'token' => '3by0j4u0i2yo8wsgckc4ww840',
+  'checksum' => '5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa',
+  'return_url' => 'http://127.0.0.61:9999/user/index.html',
+)
+[ error ] [2]file_put_contents(/runtime/cache/sso/d2/8f3e4311911b49c89e1cf5e88c2888.php): failed to open stream: No such file or directory[/www/wwwroot/tp513/thinkphp/library/think/cache/driver/File.php:188]
+---------------------------------------------------------------
+
+[2020-07-27T12:19:42+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=attach&broker=Alice&token=3by0j4u0i2yo8wsgckc4ww840&checksum=5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa&return_url=http%3A%2F%2F127.0.0.61%3A9999%2Fuser%2Findex.html
+[运行时间：0.033597s] [吞吐率：29.76req/s] [内存消耗：1,657.42kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=i1jl0l62ffbdd0d8mvvffq2s44',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'attach',
+  'broker' => 'Alice',
+  'token' => '3by0j4u0i2yo8wsgckc4ww840',
+  'checksum' => '5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa',
+  'return_url' => 'http://127.0.0.61:9999/user/index.html',
+)
+[ error ] [2]file_put_contents(/runtime/cache/sso/d2/8f3e4311911b49c89e1cf5e88c2888.php): failed to open stream: No such file or directory[/www/wwwroot/tp513/thinkphp/library/think/cache/driver/File.php:188]
+---------------------------------------------------------------
+
+[2020-07-27T12:20:13+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=attach&broker=Alice&token=3by0j4u0i2yo8wsgckc4ww840&checksum=5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa&return_url=http%3A%2F%2F127.0.0.61%3A9999%2Fuser%2Findex.html
+[运行时间：0.024509s] [吞吐率：40.80req/s] [内存消耗：1,657.42kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=i1jl0l62ffbdd0d8mvvffq2s44',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'attach',
+  'broker' => 'Alice',
+  'token' => '3by0j4u0i2yo8wsgckc4ww840',
+  'checksum' => '5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa',
+  'return_url' => 'http://127.0.0.61:9999/user/index.html',
+)
+[ error ] [2]file_put_contents(/runtime/cache//sso/d2/8f3e4311911b49c89e1cf5e88c2888.php): failed to open stream: No such file or directory[/www/wwwroot/tp513/thinkphp/library/think/cache/driver/File.php:188]
+---------------------------------------------------------------
+
+[2020-07-27T12:20:30+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=attach&broker=Alice&token=3by0j4u0i2yo8wsgckc4ww840&checksum=5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa&return_url=http%3A%2F%2F127.0.0.61%3A9999%2Fuser%2Findex.html
+[运行时间：0.031046s] [吞吐率：32.21req/s] [内存消耗：1,657.42kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=i1jl0l62ffbdd0d8mvvffq2s44',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'attach',
+  'broker' => 'Alice',
+  'token' => '3by0j4u0i2yo8wsgckc4ww840',
+  'checksum' => '5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa',
+  'return_url' => 'http://127.0.0.61:9999/user/index.html',
+)
+[ error ] [2]file_put_contents(/runtime/cache//sso/d2/8f3e4311911b49c89e1cf5e88c2888.php): failed to open stream: No such file or directory[/www/wwwroot/tp513/thinkphp/library/think/cache/driver/File.php:188]
+---------------------------------------------------------------
+
+[2020-07-27T12:20:42+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=attach&broker=Alice&token=3by0j4u0i2yo8wsgckc4ww840&checksum=5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa&return_url=http%3A%2F%2F127.0.0.61%3A9999%2Fuser%2Findex.html
+[运行时间：0.040604s] [吞吐率：24.63req/s] [内存消耗：1,657.42kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=i1jl0l62ffbdd0d8mvvffq2s44',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'attach',
+  'broker' => 'Alice',
+  'token' => '3by0j4u0i2yo8wsgckc4ww840',
+  'checksum' => '5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa',
+  'return_url' => 'http://127.0.0.61:9999/user/index.html',
+)
+[ error ] [2]file_put_contents(/runtime/cache//sso/d2/8f3e4311911b49c89e1cf5e88c2888.php): failed to open stream: No such file or directory[/www/wwwroot/tp513/thinkphp/library/think/cache/driver/File.php:188]
+---------------------------------------------------------------
+
+[2020-07-27T12:20:43+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=attach&broker=Alice&token=3by0j4u0i2yo8wsgckc4ww840&checksum=5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa&return_url=http%3A%2F%2F127.0.0.61%3A9999%2Fuser%2Findex.html
+[运行时间：0.042081s] [吞吐率：23.76req/s] [内存消耗：1,657.42kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=i1jl0l62ffbdd0d8mvvffq2s44',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'attach',
+  'broker' => 'Alice',
+  'token' => '3by0j4u0i2yo8wsgckc4ww840',
+  'checksum' => '5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa',
+  'return_url' => 'http://127.0.0.61:9999/user/index.html',
+)
+[ error ] [2]file_put_contents(/runtime/cache//sso/d2/8f3e4311911b49c89e1cf5e88c2888.php): failed to open stream: No such file or directory[/www/wwwroot/tp513/thinkphp/library/think/cache/driver/File.php:188]
+---------------------------------------------------------------
+
+[2020-07-27T12:21:41+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=attach&broker=Alice&token=3by0j4u0i2yo8wsgckc4ww840&checksum=5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa&return_url=http%3A%2F%2F127.0.0.61%3A9999%2Fuser%2Findex.html
+[运行时间：0.042898s] [吞吐率：23.31req/s] [内存消耗：1,657.42kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=i1jl0l62ffbdd0d8mvvffq2s44',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'attach',
+  'broker' => 'Alice',
+  'token' => '3by0j4u0i2yo8wsgckc4ww840',
+  'checksum' => '5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa',
+  'return_url' => 'http://127.0.0.61:9999/user/index.html',
+)
+[ error ] [2]file_put_contents(/runtime/cache/sso/d2/8f3e4311911b49c89e1cf5e88c2888.php): failed to open stream: No such file or directory[/www/wwwroot/tp513/thinkphp/library/think/cache/driver/File.php:188]
+---------------------------------------------------------------
+
+[2020-07-27T12:21:54+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=attach&broker=Alice&token=3by0j4u0i2yo8wsgckc4ww840&checksum=5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa&return_url=http%3A%2F%2F127.0.0.61%3A9999%2Fuser%2Findex.html
+[运行时间：0.043717s] [吞吐率：22.87req/s] [内存消耗：1,657.42kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=i1jl0l62ffbdd0d8mvvffq2s44',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'attach',
+  'broker' => 'Alice',
+  'token' => '3by0j4u0i2yo8wsgckc4ww840',
+  'checksum' => '5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa',
+  'return_url' => 'http://127.0.0.61:9999/user/index.html',
+)
+[ error ] [2]file_put_contents(/runtime/cache/sso/d2/8f3e4311911b49c89e1cf5e88c2888.php): failed to open stream: No such file or directory[/www/wwwroot/tp513/thinkphp/library/think/cache/driver/File.php:188]
+---------------------------------------------------------------
+
+[2020-07-27T12:22:10+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=attach&broker=Alice&token=3by0j4u0i2yo8wsgckc4ww840&checksum=5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa&return_url=http%3A%2F%2F127.0.0.61%3A9999%2Fuser%2Findex.html
+[运行时间：0.046859s] [吞吐率：21.34req/s] [内存消耗：1,657.42kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=i1jl0l62ffbdd0d8mvvffq2s44',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'attach',
+  'broker' => 'Alice',
+  'token' => '3by0j4u0i2yo8wsgckc4ww840',
+  'checksum' => '5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa',
+  'return_url' => 'http://127.0.0.61:9999/user/index.html',
+)
+[ error ] [2]file_put_contents(/runtime/cache/sso/d2/8f3e4311911b49c89e1cf5e88c2888.php): failed to open stream: No such file or directory[/www/wwwroot/tp513/thinkphp/library/think/cache/driver/File.php:188]
+---------------------------------------------------------------
+
+[2020-07-27T12:25:11+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=attach&broker=Alice&token=3by0j4u0i2yo8wsgckc4ww840&checksum=5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa&return_url=http%3A%2F%2F127.0.0.61%3A9999%2Fuser%2Findex.html
+[运行时间：0.045676s] [吞吐率：21.89req/s] [内存消耗：1,657.42kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=i1jl0l62ffbdd0d8mvvffq2s44',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'attach',
+  'broker' => 'Alice',
+  'token' => '3by0j4u0i2yo8wsgckc4ww840',
+  'checksum' => '5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa',
+  'return_url' => 'http://127.0.0.61:9999/user/index.html',
+)
+[ error ] [2]file_put_contents(/runtime/cache/sso/d2/8f3e4311911b49c89e1cf5e88c2888.php): failed to open stream: No such file or directory[/www/wwwroot/tp513/thinkphp/library/think/cache/driver/File.php:188]
+---------------------------------------------------------------
+
+[2020-07-27T12:25:57+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=attach&broker=Alice&token=3by0j4u0i2yo8wsgckc4ww840&checksum=5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa&return_url=http%3A%2F%2F127.0.0.61%3A9999%2Fuser%2Findex.html
+[运行时间：0.035130s] [吞吐率：28.47req/s] [内存消耗：1,657.42kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=i1jl0l62ffbdd0d8mvvffq2s44',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'attach',
+  'broker' => 'Alice',
+  'token' => '3by0j4u0i2yo8wsgckc4ww840',
+  'checksum' => '5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa',
+  'return_url' => 'http://127.0.0.61:9999/user/index.html',
+)
+[ error ] [2]file_put_contents(/runtime/cache/sso/d2/8f3e4311911b49c89e1cf5e88c2888.php): failed to open stream: No such file or directory[/www/wwwroot/tp513/thinkphp/library/think/cache/driver/File.php:188]
+---------------------------------------------------------------
+
+[2020-07-27T12:27:01+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=attach&broker=Alice&token=3by0j4u0i2yo8wsgckc4ww840&checksum=5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa&return_url=http%3A%2F%2F127.0.0.61%3A9999%2Fuser%2Findex.html
+[运行时间：0.036404s] [吞吐率：27.47req/s] [内存消耗：1,657.42kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=i1jl0l62ffbdd0d8mvvffq2s44',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'attach',
+  'broker' => 'Alice',
+  'token' => '3by0j4u0i2yo8wsgckc4ww840',
+  'checksum' => '5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa',
+  'return_url' => 'http://127.0.0.61:9999/user/index.html',
+)
+[ error ] [2]file_put_contents(/runtime/cache/sso/d2/8f3e4311911b49c89e1cf5e88c2888.php): failed to open stream: No such file or directory[/www/wwwroot/tp513/thinkphp/library/think/cache/driver/File.php:188]
+---------------------------------------------------------------
+
+[2020-07-27T12:29:04+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=attach&broker=Alice&token=3by0j4u0i2yo8wsgckc4ww840&checksum=5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa&return_url=http%3A%2F%2F127.0.0.61%3A9999%2Fuser%2Findex.html
+[运行时间：0.044789s] [吞吐率：22.33req/s] [内存消耗：1,657.42kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=i1jl0l62ffbdd0d8mvvffq2s44',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'attach',
+  'broker' => 'Alice',
+  'token' => '3by0j4u0i2yo8wsgckc4ww840',
+  'checksum' => '5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa',
+  'return_url' => 'http://127.0.0.61:9999/user/index.html',
+)
+[ error ] [2]file_put_contents(/runtime/cache/sso/d2/8f3e4311911b49c89e1cf5e88c2888.php): failed to open stream: No such file or directory[/www/wwwroot/tp513/thinkphp/library/think/cache/driver/File.php:188]
+---------------------------------------------------------------
+
+[2020-07-27T12:29:05+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=attach&broker=Alice&token=3by0j4u0i2yo8wsgckc4ww840&checksum=5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa&return_url=http%3A%2F%2F127.0.0.61%3A9999%2Fuser%2Findex.html
+[运行时间：0.025896s] [吞吐率：38.62req/s] [内存消耗：1,657.42kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=i1jl0l62ffbdd0d8mvvffq2s44',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'attach',
+  'broker' => 'Alice',
+  'token' => '3by0j4u0i2yo8wsgckc4ww840',
+  'checksum' => '5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa',
+  'return_url' => 'http://127.0.0.61:9999/user/index.html',
+)
+[ error ] [2]file_put_contents(/runtime/cache/sso/d2/8f3e4311911b49c89e1cf5e88c2888.php): failed to open stream: No such file or directory[/www/wwwroot/tp513/thinkphp/library/think/cache/driver/File.php:188]
+---------------------------------------------------------------
+
+[2020-07-27T13:34:55+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=attach&broker=Alice&token=3by0j4u0i2yo8wsgckc4ww840&checksum=5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa&return_url=http%3A%2F%2F127.0.0.61%3A9999%2Fuser%2Findex.html
+[运行时间：0.346499s] [吞吐率：2.89req/s] [内存消耗：1,657.42kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=i1jl0l62ffbdd0d8mvvffq2s44',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'attach',
+  'broker' => 'Alice',
+  'token' => '3by0j4u0i2yo8wsgckc4ww840',
+  'checksum' => '5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa',
+  'return_url' => 'http://127.0.0.61:9999/user/index.html',
+)
+[ error ] [2]file_put_contents(/runtime/cache/sso/d2/8f3e4311911b49c89e1cf5e88c2888.php): failed to open stream: No such file or directory[/www/wwwroot/tp513/thinkphp/library/think/cache/driver/File.php:188]
+---------------------------------------------------------------
+
+[2020-07-27T13:43:37+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=attach&broker=Alice&token=3by0j4u0i2yo8wsgckc4ww840&checksum=5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa&return_url=http%3A%2F%2F127.0.0.61%3A9999%2Fuser%2Findex.html
+[运行时间：0.029834s] [吞吐率：33.52req/s] [内存消耗：1,657.42kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=i1jl0l62ffbdd0d8mvvffq2s44',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'attach',
+  'broker' => 'Alice',
+  'token' => '3by0j4u0i2yo8wsgckc4ww840',
+  'checksum' => '5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa',
+  'return_url' => 'http://127.0.0.61:9999/user/index.html',
+)
+[ error ] [2]file_put_contents(/runtime/cache/sso/d2/8f3e4311911b49c89e1cf5e88c2888.php): failed to open stream: No such file or directory[/www/wwwroot/tp513/thinkphp/library/think/cache/driver/File.php:188]
+---------------------------------------------------------------
+
+[2020-07-27T13:51:08+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=attach&broker=Alice&token=3by0j4u0i2yo8wsgckc4ww840&checksum=5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa&return_url=http%3A%2F%2F127.0.0.61%3A9999%2Fuser%2Findex.html
+[运行时间：0.048025s] [吞吐率：20.82req/s] [内存消耗：1,657.42kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=i1jl0l62ffbdd0d8mvvffq2s44',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'attach',
+  'broker' => 'Alice',
+  'token' => '3by0j4u0i2yo8wsgckc4ww840',
+  'checksum' => '5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa',
+  'return_url' => 'http://127.0.0.61:9999/user/index.html',
+)
+[ error ] [2]file_put_contents(/runtime/cache/sso/d2/8f3e4311911b49c89e1cf5e88c2888.php): failed to open stream: No such file or directory[/www/wwwroot/tp513/thinkphp/library/think/cache/driver/File.php:188]
+---------------------------------------------------------------
+
+[2020-07-27T13:51:09+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=attach&broker=Alice&token=3by0j4u0i2yo8wsgckc4ww840&checksum=5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa&return_url=http%3A%2F%2F127.0.0.61%3A9999%2Fuser%2Findex.html
+[运行时间：0.035506s] [吞吐率：28.16req/s] [内存消耗：1,657.42kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=i1jl0l62ffbdd0d8mvvffq2s44',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'attach',
+  'broker' => 'Alice',
+  'token' => '3by0j4u0i2yo8wsgckc4ww840',
+  'checksum' => '5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa',
+  'return_url' => 'http://127.0.0.61:9999/user/index.html',
+)
+[ error ] [2]file_put_contents(/runtime/cache/sso/d2/8f3e4311911b49c89e1cf5e88c2888.php): failed to open stream: No such file or directory[/www/wwwroot/tp513/thinkphp/library/think/cache/driver/File.php:188]
+---------------------------------------------------------------
+
+[2020-07-27T13:51:11+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=attach&broker=Alice&token=3by0j4u0i2yo8wsgckc4ww840&checksum=5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa&return_url=http%3A%2F%2F127.0.0.61%3A9999%2Fuser%2Findex.html
+[运行时间：0.054642s] [吞吐率：18.30req/s] [内存消耗：1,657.42kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=i1jl0l62ffbdd0d8mvvffq2s44',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'attach',
+  'broker' => 'Alice',
+  'token' => '3by0j4u0i2yo8wsgckc4ww840',
+  'checksum' => '5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa',
+  'return_url' => 'http://127.0.0.61:9999/user/index.html',
+)
+[ error ] [2]file_put_contents(/runtime/cache/sso/d2/8f3e4311911b49c89e1cf5e88c2888.php): failed to open stream: No such file or directory[/www/wwwroot/tp513/thinkphp/library/think/cache/driver/File.php:188]
+---------------------------------------------------------------
+
+[2020-07-27T13:52:05+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=attach&broker=Alice&token=3by0j4u0i2yo8wsgckc4ww840&checksum=5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa&return_url=http%3A%2F%2F127.0.0.61%3A9999%2Fuser%2Findex.html
+[运行时间：0.053920s] [吞吐率：18.55req/s] [内存消耗：1,657.42kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=i1jl0l62ffbdd0d8mvvffq2s44',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'attach',
+  'broker' => 'Alice',
+  'token' => '3by0j4u0i2yo8wsgckc4ww840',
+  'checksum' => '5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa',
+  'return_url' => 'http://127.0.0.61:9999/user/index.html',
+)
+[ error ] [2]file_put_contents(/runtime/cache/sso/d2/8f3e4311911b49c89e1cf5e88c2888.php): failed to open stream: No such file or directory[/www/wwwroot/tp513/thinkphp/library/think/cache/driver/File.php:188]
+---------------------------------------------------------------
+
+[2020-07-27T13:52:06+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=attach&broker=Alice&token=3by0j4u0i2yo8wsgckc4ww840&checksum=5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa&return_url=http%3A%2F%2F127.0.0.61%3A9999%2Fuser%2Findex.html
+[运行时间：0.022996s] [吞吐率：43.49req/s] [内存消耗：1,657.42kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=i1jl0l62ffbdd0d8mvvffq2s44',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'attach',
+  'broker' => 'Alice',
+  'token' => '3by0j4u0i2yo8wsgckc4ww840',
+  'checksum' => '5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa',
+  'return_url' => 'http://127.0.0.61:9999/user/index.html',
+)
+[ error ] [2]file_put_contents(/runtime/cache/sso/d2/8f3e4311911b49c89e1cf5e88c2888.php): failed to open stream: No such file or directory[/www/wwwroot/tp513/thinkphp/library/think/cache/driver/File.php:188]
+---------------------------------------------------------------
+
+[2020-07-27T13:52:08+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=attach&broker=Alice&token=3by0j4u0i2yo8wsgckc4ww840&checksum=5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa&return_url=http%3A%2F%2F127.0.0.61%3A9999%2Fuser%2Findex.html
+[运行时间：0.027236s] [吞吐率：36.72req/s] [内存消耗：1,657.42kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=i1jl0l62ffbdd0d8mvvffq2s44',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'attach',
+  'broker' => 'Alice',
+  'token' => '3by0j4u0i2yo8wsgckc4ww840',
+  'checksum' => '5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa',
+  'return_url' => 'http://127.0.0.61:9999/user/index.html',
+)
+[ error ] [2]file_put_contents(/runtime/cache/sso/d2/8f3e4311911b49c89e1cf5e88c2888.php): failed to open stream: No such file or directory[/www/wwwroot/tp513/thinkphp/library/think/cache/driver/File.php:188]
+---------------------------------------------------------------
+
+[2020-07-27T13:52:55+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=attach&broker=Alice&token=3by0j4u0i2yo8wsgckc4ww840&checksum=5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa&return_url=http%3A%2F%2F127.0.0.61%3A9999%2Fuser%2Findex.html
+[运行时间：0.044790s] [吞吐率：22.33req/s] [内存消耗：1,657.42kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=i1jl0l62ffbdd0d8mvvffq2s44',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'attach',
+  'broker' => 'Alice',
+  'token' => '3by0j4u0i2yo8wsgckc4ww840',
+  'checksum' => '5251b12e3cfae2d1a2769db28caf5bf0cfff0651e934d038ee212b01b32b9daa',
+  'return_url' => 'http://127.0.0.61:9999/user/index.html',
+)
+[ error ] [2]file_put_contents(/runtime/cache/sso/d2/8f3e4311911b49c89e1cf5e88c2888.php): failed to open stream: No such file or directory[/www/wwwroot/tp513/thinkphp/library/think/cache/driver/File.php:188]
+---------------------------------------------------------------
+
+[2020-07-27T13:53:40+08:00] 127.0.0.1 GET 127.0.0.61:9999/
+[运行时间：0.095828s] [吞吐率：10.44req/s] [内存消耗：1,582.34kb] [文件加载：59]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'pc'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.61:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-07-27T13:53:41+08:00] 127.0.0.1 GET 127.0.0.61:9999/user/index.html
+[运行时间：0.116169s] [吞吐率：8.61req/s] [内存消耗：1,553.95kb] [文件加载：57]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'pc'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.61:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-07-27T13:53:41+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=attach&broker=Alice&token=2ne4n2f3f9c00400ogwksgccs&checksum=e4a9b8100701454e5523a008ace461bd0086558c0869d41aa523db34c480a3e8&return_url=http%3A%2F%2F127.0.0.61%3A9999%2Fuser%2Findex.html
+[运行时间：0.020206s] [吞吐率：49.49req/s] [内存消耗：1,657.26kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=i1jl0l62ffbdd0d8mvvffq2s44',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'attach',
+  'broker' => 'Alice',
+  'token' => '2ne4n2f3f9c00400ogwksgccs',
+  'checksum' => 'e4a9b8100701454e5523a008ace461bd0086558c0869d41aa523db34c480a3e8',
+  'return_url' => 'http://127.0.0.61:9999/user/index.html',
+)
+[ error ] [2]file_put_contents(/runtime/cache/sso/ef/0a37a2bd3c0422ac682ed555801acc.php): failed to open stream: No such file or directory[/www/wwwroot/tp513/thinkphp/library/think/cache/driver/File.php:188]
+---------------------------------------------------------------
+
+[2020-07-27T13:54:02+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=attach&broker=Alice&token=2ne4n2f3f9c00400ogwksgccs&checksum=e4a9b8100701454e5523a008ace461bd0086558c0869d41aa523db34c480a3e8&return_url=http%3A%2F%2F127.0.0.61%3A9999%2Fuser%2Findex.html
+[运行时间：0.047171s] [吞吐率：21.20req/s] [内存消耗：1,657.42kb] [文件加载：66]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=i1jl0l62ffbdd0d8mvvffq2s44',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'attach',
+  'broker' => 'Alice',
+  'token' => '2ne4n2f3f9c00400ogwksgccs',
+  'checksum' => 'e4a9b8100701454e5523a008ace461bd0086558c0869d41aa523db34c480a3e8',
+  'return_url' => 'http://127.0.0.61:9999/user/index.html',
+)
+[ error ] [2]file_put_contents(/runtime/cache/sso/ef/0a37a2bd3c0422ac682ed555801acc.php): failed to open stream: No such file or directory[/www/wwwroot/tp513/thinkphp/library/think/cache/driver/File.php:188]
+---------------------------------------------------------------
+
+[2020-07-27T13:57:45+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=attach&broker=Alice&token=2ne4n2f3f9c00400ogwksgccs&checksum=e4a9b8100701454e5523a008ace461bd0086558c0869d41aa523db34c480a3e8&return_url=http%3A%2F%2F127.0.0.61%3A9999%2Fuser%2Findex.html
+[运行时间：0.056299s] [吞吐率：17.76req/s] [内存消耗：1,579.28kb] [文件加载：62]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=i1jl0l62ffbdd0d8mvvffq2s44',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'attach',
+  'broker' => 'Alice',
+  'token' => '2ne4n2f3f9c00400ogwksgccs',
+  'checksum' => 'e4a9b8100701454e5523a008ace461bd0086558c0869d41aa523db34c480a3e8',
+  'return_url' => 'http://127.0.0.61:9999/user/index.html',
+)
+[ debug ] NULL
+---------------------------------------------------------------
+
+[2020-07-27T13:57:45+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=userInfo&sso_session=SSO-Alice-2ne4n2f3f9c00400ogwksgccs-a766b4bdd7d584a33aad0d101e731911b44160eac3b4097693d2afe765d7b05c
+[运行时间：0.046006s] [吞吐率：21.74req/s] [内存消耗：1,563.30kb] [文件加载：60]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'application/json',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'userInfo',
+  'sso_session' => 'SSO-Alice-2ne4n2f3f9c00400ogwksgccs-a766b4bdd7d584a33aad0d101e731911b44160eac3b4097693d2afe765d7b05c',
+)
+---------------------------------------------------------------
+
+[2020-07-27T13:57:45+08:00] 127.0.0.1 GET 127.0.0.61:9999/user/index.html
+[运行时间：0.103687s] [吞吐率：9.64req/s] [内存消耗：1,628.50kb] [文件加载：60]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'pc'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'sso_token_alice=2ne4n2f3f9c00400ogwksgccs',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.61:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-07-27T13:57:45+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=userInfo&sso_session=SSO-Alice-2ne4n2f3f9c00400ogwksgccs-a766b4bdd7d584a33aad0d101e731911b44160eac3b4097693d2afe765d7b05c
+[运行时间：0.017260s] [吞吐率：57.94req/s] [内存消耗：1,563.30kb] [文件加载：60]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'application/json',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'userInfo',
+  'sso_session' => 'SSO-Alice-2ne4n2f3f9c00400ogwksgccs-a766b4bdd7d584a33aad0d101e731911b44160eac3b4097693d2afe765d7b05c',
+)
+---------------------------------------------------------------
+
+[2020-07-27T13:57:45+08:00] 127.0.0.1 GET 127.0.0.61:9999/user/login.html
+[运行时间：0.109462s] [吞吐率：9.14req/s] [内存消耗：1,707.30kb] [文件加载：62]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'pc'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'sso_token_alice=2ne4n2f3f9c00400ogwksgccs',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.61:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wwwroot/tp513/application/pc/view/user/login.html [ array (
+  0 => 'errmsg',
+) ]
+---------------------------------------------------------------
+
+[2020-07-27T13:58:28+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=userInfo&sso_session=SSO-Alice-2ne4n2f3f9c00400ogwksgccs-a766b4bdd7d584a33aad0d101e731911b44160eac3b4097693d2afe765d7b05c
+[运行时间：0.020642s] [吞吐率：48.44req/s] [内存消耗：1,563.30kb] [文件加载：60]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'application/json',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'userInfo',
+  'sso_session' => 'SSO-Alice-2ne4n2f3f9c00400ogwksgccs-a766b4bdd7d584a33aad0d101e731911b44160eac3b4097693d2afe765d7b05c',
+)
+---------------------------------------------------------------
+
+[2020-07-27T13:58:28+08:00] 127.0.0.1 POST 127.0.0.60:9999/index/index?command=login&sso_session=SSO-Alice-2ne4n2f3f9c00400ogwksgccs-a766b4bdd7d584a33aad0d101e731911b44160eac3b4097693d2afe765d7b05c
+[运行时间：0.122631s] [吞吐率：8.15req/s] [内存消耗：1,573.11kb] [文件加载：61]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '34',
+  'accept' => 'application/json',
+  'host' => '127.0.0.60:9999',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'login',
+  'sso_session' => 'SSO-Alice-2ne4n2f3f9c00400ogwksgccs-a766b4bdd7d584a33aad0d101e731911b44160eac3b4097693d2afe765d7b05c',
+  'username' => 'jackie',
+  'password' => 'jackie123',
+)
+---------------------------------------------------------------
+
+[2020-07-27T13:58:28+08:00] 127.0.0.1 POST 127.0.0.61:9999/user/login.html
+[运行时间：0.210819s] [吞吐率：4.74req/s] [内存消耗：1,553.87kb] [文件加载：57]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'pc'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'sso_token_alice=2ne4n2f3f9c00400ogwksgccs',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://127.0.0.61:9999/user/login.html',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'origin' => 'http://127.0.0.61:9999',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'content-length' => '34',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.61:9999',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'jackie',
+  'password' => 'jackie123',
+)
+---------------------------------------------------------------
+
+[2020-07-27T13:58:32+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=userInfo&sso_session=SSO-Alice-2ne4n2f3f9c00400ogwksgccs-a766b4bdd7d584a33aad0d101e731911b44160eac3b4097693d2afe765d7b05c
+[运行时间：0.044396s] [吞吐率：22.52req/s] [内存消耗：1,564.09kb] [文件加载：60]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'application/json',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'userInfo',
+  'sso_session' => 'SSO-Alice-2ne4n2f3f9c00400ogwksgccs-a766b4bdd7d584a33aad0d101e731911b44160eac3b4097693d2afe765d7b05c',
+)
+---------------------------------------------------------------
+
+[2020-07-27T13:58:32+08:00] 127.0.0.1 POST 127.0.0.61:9999/user/login.html
+[运行时间：0.092324s] [吞吐率：10.83req/s] [内存消耗：1,628.86kb] [文件加载：60]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'pc'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'sso_token_alice=2ne4n2f3f9c00400ogwksgccs',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://127.0.0.61:9999/user/login.html',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'origin' => 'http://127.0.0.61:9999',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'content-length' => '34',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.61:9999',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'jackie',
+  'password' => 'jackie123',
+)
+---------------------------------------------------------------
+
+[2020-07-27T13:58:32+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=userInfo&sso_session=SSO-Alice-2ne4n2f3f9c00400ogwksgccs-a766b4bdd7d584a33aad0d101e731911b44160eac3b4097693d2afe765d7b05c
+[运行时间：0.025587s] [吞吐率：39.08req/s] [内存消耗：1,564.09kb] [文件加载：60]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'application/json',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'userInfo',
+  'sso_session' => 'SSO-Alice-2ne4n2f3f9c00400ogwksgccs-a766b4bdd7d584a33aad0d101e731911b44160eac3b4097693d2afe765d7b05c',
+)
+---------------------------------------------------------------
+
+[2020-07-27T13:58:32+08:00] 127.0.0.1 GET 127.0.0.61:9999/user/index.html
+[运行时间：0.068509s] [吞吐率：14.60req/s] [内存消耗：1,704.71kb] [文件加载：62]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'pc'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'sso_token_alice=2ne4n2f3f9c00400ogwksgccs',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://127.0.0.61:9999/user/login.html',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.61:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wwwroot/tp513/application/pc/view/user/index.html [ array (
+  0 => 'user',
+) ]
+---------------------------------------------------------------
+
+[2020-07-27T13:58:42+08:00] 127.0.0.1 GET 127.0.0.62:9999/
+[运行时间：0.082510s] [吞吐率：12.12req/s] [内存消耗：1,581.73kb] [文件加载：59]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'h5'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.62:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-07-27T13:58:42+08:00] 127.0.0.1 GET 127.0.0.62:9999/user/index.html
+[运行时间：0.048400s] [吞吐率：20.66req/s] [内存消耗：1,553.34kb] [文件加载：57]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'h5'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.62:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-07-27T13:58:42+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=attach&broker=Greg&token=9838w6j2pw08s4k0soso00owg&checksum=20019a38ce90fc607848c63082c93661c5cc71c9ef06663e987a57f9c2f2ac28&return_url=http%3A%2F%2F127.0.0.62%3A9999%2Fuser%2Findex.html
+[运行时间：0.031324s] [吞吐率：31.92req/s] [内存消耗：1,579.55kb] [文件加载：62]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=i1jl0l62ffbdd0d8mvvffq2s44',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'attach',
+  'broker' => 'Greg',
+  'token' => '9838w6j2pw08s4k0soso00owg',
+  'checksum' => '20019a38ce90fc607848c63082c93661c5cc71c9ef06663e987a57f9c2f2ac28',
+  'return_url' => 'http://127.0.0.62:9999/user/index.html',
+)
+[ debug ] NULL
+---------------------------------------------------------------
+
+[2020-07-27T13:58:42+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=userInfo&sso_session=SSO-Greg-9838w6j2pw08s4k0soso00owg-1989f947577a22e481e9d2121e8792b7cd6c7737948c2c41045108f53cf3b5d5
+[运行时间：0.030947s] [吞吐率：32.31req/s] [内存消耗：1,564.09kb] [文件加载：60]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'application/json',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'userInfo',
+  'sso_session' => 'SSO-Greg-9838w6j2pw08s4k0soso00owg-1989f947577a22e481e9d2121e8792b7cd6c7737948c2c41045108f53cf3b5d5',
+)
+---------------------------------------------------------------
+
+[2020-07-27T13:58:42+08:00] 127.0.0.1 GET 127.0.0.62:9999/user/index.html
+[运行时间：0.075010s] [吞吐率：13.33req/s] [内存消耗：1,704.14kb] [文件加载：62]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'h5'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'sso_token_greg=9838w6j2pw08s4k0soso00owg',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.62:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wwwroot/tp513/application/h5/view/user/index.html [ array (
+  0 => 'user',
+) ]
+---------------------------------------------------------------
+
+[2020-07-27T13:59:00+08:00] 127.0.0.1 POST 127.0.0.60:9999/index/index?command=logout&sso_session=SSO-Alice-2ne4n2f3f9c00400ogwksgccs-a766b4bdd7d584a33aad0d101e731911b44160eac3b4097693d2afe765d7b05c
+[运行时间：0.042403s] [吞吐率：23.58req/s] [内存消耗：1,562.26kb] [文件加载：60]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'application/json',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'logout',
+  'sso_session' => 'SSO-Alice-2ne4n2f3f9c00400ogwksgccs-a766b4bdd7d584a33aad0d101e731911b44160eac3b4097693d2afe765d7b05c',
+)
+---------------------------------------------------------------
+
+[2020-07-27T13:59:00+08:00] 127.0.0.1 GET 127.0.0.61:9999/user/index.html?logout=1
+[运行时间：0.087142s] [吞吐率：11.48req/s] [内存消耗：1,628.84kb] [文件加载：60]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'pc'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'sso_token_alice=2ne4n2f3f9c00400ogwksgccs',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://127.0.0.61:9999/user/index.html',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.61:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'logout' => '1',
+)
+---------------------------------------------------------------
+
+[2020-07-27T13:59:00+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=userInfo&sso_session=SSO-Alice-2ne4n2f3f9c00400ogwksgccs-a766b4bdd7d584a33aad0d101e731911b44160eac3b4097693d2afe765d7b05c
+[运行时间：0.052569s] [吞吐率：19.02req/s] [内存消耗：1,563.30kb] [文件加载：60]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'application/json',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'userInfo',
+  'sso_session' => 'SSO-Alice-2ne4n2f3f9c00400ogwksgccs-a766b4bdd7d584a33aad0d101e731911b44160eac3b4097693d2afe765d7b05c',
+)
+---------------------------------------------------------------
+
+[2020-07-27T13:59:00+08:00] 127.0.0.1 GET 127.0.0.61:9999/user/login.html
+[运行时间：0.108446s] [吞吐率：9.22req/s] [内存消耗：1,573.37kb] [文件加载：60]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'pc'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'sso_token_alice=2ne4n2f3f9c00400ogwksgccs',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://127.0.0.61:9999/user/index.html',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.61:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wwwroot/tp513/application/pc/view/user/login.html [ array (
+  0 => 'errmsg',
+) ]
+---------------------------------------------------------------
+
+[2020-07-27T13:59:02+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=userInfo&sso_session=SSO-Greg-9838w6j2pw08s4k0soso00owg-1989f947577a22e481e9d2121e8792b7cd6c7737948c2c41045108f53cf3b5d5
+[运行时间：0.022210s] [吞吐率：45.03req/s] [内存消耗：1,563.30kb] [文件加载：60]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'application/json',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'userInfo',
+  'sso_session' => 'SSO-Greg-9838w6j2pw08s4k0soso00owg-1989f947577a22e481e9d2121e8792b7cd6c7737948c2c41045108f53cf3b5d5',
+)
+---------------------------------------------------------------
+
+[2020-07-27T13:59:02+08:00] 127.0.0.1 GET 127.0.0.62:9999/user/index.html
+[运行时间：0.061876s] [吞吐率：16.16req/s] [内存消耗：1,628.38kb] [文件加载：60]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'h5'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'sso_token_greg=9838w6j2pw08s4k0soso00owg',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.62:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-07-27T13:59:02+08:00] 127.0.0.1 GET 127.0.0.60:9999/index/index?command=userInfo&sso_session=SSO-Greg-9838w6j2pw08s4k0soso00owg-1989f947577a22e481e9d2121e8792b7cd6c7737948c2c41045108f53cf3b5d5
+[运行时间：0.016526s] [吞吐率：60.51req/s] [内存消耗：1,563.30kb] [文件加载：60]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'sso'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'application/json',
+  'host' => '127.0.0.60:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'command' => 'userInfo',
+  'sso_session' => 'SSO-Greg-9838w6j2pw08s4k0soso00owg-1989f947577a22e481e9d2121e8792b7cd6c7737948c2c41045108f53cf3b5d5',
+)
+---------------------------------------------------------------
+
+[2020-07-27T13:59:02+08:00] 127.0.0.1 GET 127.0.0.62:9999/user/login.html
+[运行时间：0.063251s] [吞吐率：15.81req/s] [内存消耗：1,707.17kb] [文件加载：62]
+[ info ] [ LANG ] /www/wwwroot/tp513/thinkphp/lang/zh-cn.php
+[ info ] [ BIND ] 'h5'
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'sso_token_greg=9838w6j2pw08s4k0soso00owg',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.62:9999',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /www/wwwroot/tp513/application/h5/view/user/login.html [ array (
+  0 => 'errmsg',
+) ]
