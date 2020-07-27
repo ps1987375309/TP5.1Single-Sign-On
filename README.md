@@ -1,6 +1,10 @@
 # TP5.1Single-Sign-On
 TP jasny/sso扩展，单点登录
 
+#原理
+session存储登录数据，当另外一个应用登录的时候获取这个session，然后直接登录
+
+#安装
 conposer安装tp5.1框架
 conposer安装 "composer require jasny/sso=0.2.3"
 
