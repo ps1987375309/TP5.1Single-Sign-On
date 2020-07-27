@@ -1,7 +1,7 @@
 # TP5.1Single-Sign-On
 TP jasny/sso扩展，单点登录
 
- conposer安装 "jasny/sso=0.2.3"
+ conposer安装 "composer require jasny/sso=0.2.3"
 
 #配置 路由配置sso模块到127.0.0.60
 配置pc模块到127.0.0.61
