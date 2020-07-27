@@ -14,7 +14,9 @@ application/pc
 application/sso
 application/common.php
 
+
 #缓存配置
+thinkphp/base.php
 config/cache.php
 
 #路由配置
